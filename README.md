@@ -70,7 +70,7 @@ Displays the student list with radio buttons for marking **Present** or **Absent
 
 Once attendance is submitted, records are stored in the database and shown for the selected date.
 
-![Saved Records](saved%20records.png)
+![Saved Records](saved%20records%20.png)
 
 ---
 
