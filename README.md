@@ -51,22 +51,22 @@ attendance_portal/
 ## 🖼 Screenshots
 
 ### 🔐 Login Page
-![Login Page](images/login_site.png)
+![Login Page](images/login site.png)
 
 ---
 
 ### 📊 Main Attendance Dashboard
-![Main Portal](images/main_porta.png)
+![Main Portal](images/main porta.png)
 
 ---
 
 ### ✅ Saved Attendance Records View
-![Saved Records](images/saved_records.png)
+![Saved Records](images/saved records.png)
 
 ---
 
 ### 📥 Download PDF of Attendance
-![Download PDF](images/download_pdf.png)
+![Download PDF](images/download pdf.png)
 
 ---
 
