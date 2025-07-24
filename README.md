@@ -70,7 +70,7 @@ Displays the student list with radio buttons for marking **Present** or **Absent
 
 Once attendance is submitted, records are stored in the database and shown for the selected date.
 
-![Saved Records](attendance_portal/saved%20records.png)
+![Saved Records](saved%20records.png)
 
 ---
 
@@ -78,7 +78,7 @@ Once attendance is submitted, records are stored in the database and shown for t
 
 Teachers can download a PDF report for any date, generated using the **FPDF** library.
 
-![Download PDF](attendance_portal/download%20pdf.png)
+![Download PDF](download%20pdf.png)
 
 
 ---
