@@ -61,7 +61,7 @@ attendance_portal/
 ---
 
 ### ✅ Saved Attendance Records View
-![Saved Records](savedrecords.png)
+![Saved Records](attendance_portal/saved%20records.png)
 
 ---
 
