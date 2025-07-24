@@ -50,23 +50,36 @@ attendance_portal/
 
 ## 🖼 Screenshots
 
-### 🔐 Login Page
-![Login Page](loginsite.png)
+## 🔐 Login Page
+
+Teachers must log in using their credentials to access the attendance dashboard.
+
+![Login Page](login%20site.png)
 
 ---
 
-### 📊 Main Attendance Dashboard
-![Main Portal](mainporta.png)
+## 📊 Main Dashboard
+
+Displays the student list with radio buttons for marking **Present** or **Absent**, date selector, and "Submit Attendance" button.
+
+![Main Portal](main%20porta.png)
 
 ---
 
-### ✅ Saved Attendance Records View
+## 💾 Attendance Records Saved
+
+Once attendance is submitted, records are stored in the database and shown for the selected date.
+
 ![Saved Records](attendance_portal/saved%20records.png)
 
 ---
 
-### 📥 Download PDF of Attendance
-![Download PDF](downloadpdf.png)
+## 🧾 Download PDF Report
+
+Teachers can download a PDF report for any date, generated using the **FPDF** library.
+
+![Download PDF](attendance_portal/download%20pdf.png)
+
 
 ---
 
